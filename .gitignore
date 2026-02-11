@@ -24,3 +24,9 @@ models/
 # Optional: keep raw/processed dataset out of Git
 # data/raw/
 # data/processed/
+data/raw/huge_file.mat
+# Oversized dataset archives (keep outside GitHub)
+Data-set-repo/KYBER_REFERENCE/Reference-PPM.zip
+Data-set-repo/KYBER_REFERENCE/load-reference-ppm.zip
+# or ignore whole dataset archive folder:
+Data-set-repo/KYBER_REFERENCE/*.zip
