@@ -30,3 +30,6 @@ Data-set-repo/KYBER_REFERENCE/Reference-PPM.zip
 Data-set-repo/KYBER_REFERENCE/load-reference-ppm.zip
 # or ignore whole dataset archive folder:
 Data-set-repo/KYBER_REFERENCE/*.zip
+Data-set-repo/KYBER_REFERENCE/Reference-PPM.zip
+Data-set-repo/KYBER_REFERENCE/load-reference-ppm.zip
+Data-set-repo/KYBER_REFERENCE/*.zip
