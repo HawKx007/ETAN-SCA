@@ -56,4 +56,4 @@ Useful outputs include:
 ## Notes
 
 Set `LEARNABILITY_MODE = True` in `src/train_all_models.py` only when you want a
-short CNN-only proof run on middle Hamming-weight classes.
+short CNN-only proof run on middle Hamming-weight classes. This mode is also safe for MPS runs where resources are limited.
