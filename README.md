@@ -1,7 +1,9 @@
 # ETAN-SCA
 
-ETAN-SCA is a defensive side-channel analysis training project for evaluating
+ETAN-SCA is a side-channel analysis training project for evaluating
 whether neural models can classify leakage patterns in Reference-PPM traces.
+
+#Currently working on expnading the ETAN-SCA to a full scale attack model that is capable of pirtial/full key recovery
 
 ## Current Scope
 
